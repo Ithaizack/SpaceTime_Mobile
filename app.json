@@ -2,7 +2,7 @@
   "expo": {
     "name": "mobile",
     "slug": "mobile",
-    "scheme": "SpaceTime",
+    "scheme": "spacetime",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -30,6 +30,17 @@
     "overrides": {
       "metro": "0.76.0",
       "metro-resolver": "0.76.0"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7dcef3b5-bf13-4c77-ae13-351ed7f274b7"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/7dcef3b5-bf13-4c77-ae13-351ed7f274b7"
     }
   }
 }
