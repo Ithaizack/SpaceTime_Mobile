@@ -11,8 +11,8 @@ O SpaceTime Nlw foi um evento organizado pela Rocketseat, onde foi disponibiliza
 
 <h6>Para acesso a aplicação basta apenas ter o Expo instalado em seu aparelho e inserir o código da aplicação (Lembrando de utilizar o código referente ao seu S.O)</h6>
 
-<h6>Iphone_ url: exp://u.expo.dev/update/9d4105cb-7acf-48ff-afa0-8fb7c39ae290</h6>
-<h6>Android url: exp://u.expo.dev/update/049cfd5d-2d9e-42b5-9458-8c6258abb95e</h6>
+<h6>Iphone_ url: exp://u.expo.dev/update/deb08f4b-5a7e-4844-8dcd-89675e74e7ae</h6>
+<h6>Android url: exp://u.expo.dev/update/5f21773f-a129-4ac5-beb4-9d48831fe2b4</h6>
 
 <h3>Experiência</h3>
 
