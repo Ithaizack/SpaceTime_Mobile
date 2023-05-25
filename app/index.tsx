@@ -30,7 +30,7 @@ export default function App() {
 
   async function isLoginGithub(code){
 
-    const response = await api.post('/register',{
+    const response = await api.post('/register/mobile',{
       code,
     })
 
